@@ -34,7 +34,8 @@ footer{
 }
 .icones a{
   color:#1edd88;
+  font-size:30px;
 }
-.icone p{
+.icones p{
   opacity:0.5;
 }
